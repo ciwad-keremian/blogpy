@@ -3,3 +3,9 @@ venv/
 
 # vscode
 .vscode/
+
+# database
+db.sqlite3
+
+#migrations
+blog/migrations/
